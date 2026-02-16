@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Luis Fernando 👋
+#### Data Scientist en formación | TripleTen Student
 
-<!--
-**fernandocamachosaldivar-ctrl/fernandocamachosaldivar-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por los datos y la tecnología. Actualmente estoy perfeccionando mis habilidades en Análisis de Datos y Machine Learning.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: Proyectos de Machine Learning con Scikit-Learn.
+- 🌱 Aprendiendo: Deep Learning y SQL avanzado.
+- 👯 Busco colaborar en: Proyectos de análisis de datos open source.
+- ⚡ Dato curioso: Me encanta resolver problemas complejos transformándolos en código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Mi Stack Técnico:**
+Python | Pandas | SQL | Machine Learning | Git
+
+📫 **Contáctame:**
+linkedin.com/in/luis-fernando-camacho-saldivar-192508b0
+fernandocamacho.saldivar@gmail.com
